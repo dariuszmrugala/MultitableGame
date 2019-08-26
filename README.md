@@ -9,4 +9,4 @@ Język programowania: Java
 
 Kontrola wersji: GitHub 
 
-Można też edytować 
+~~Można też edytować i kasować~~
