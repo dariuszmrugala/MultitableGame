@@ -8,3 +8,5 @@ Język programowania: Java
 Środowisko: Inelij IDEA 
 
 Kontrola wersji: GitHub 
+
+Można też edytować 
